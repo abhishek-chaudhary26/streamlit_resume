@@ -1,6 +1,2 @@
-streamlit 
-plotly.express 
-pandas 
-base64
-PIL 
-io 
+plotly
+pillow
