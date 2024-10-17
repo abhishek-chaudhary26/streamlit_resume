@@ -169,15 +169,7 @@ with col2:
 
 #certifications
 st.subheader("Certifications")
-st.markdown("""<html>
-
-    <ul>
-  <li>First item</li>
-  <li>Second item</li>
-  <li>Third item</li>
-  <li>Fourth item</li>
-</ul>
-</html>
+st.markdown("""
             -Supervised Machine Learning: Regression and Classification
             -authorized by DeepLearning.AI and Stanford University and offered through Coursera
 
